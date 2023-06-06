@@ -13,6 +13,3 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zoilosalonga?country.x=PH&locale.x=en_US) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zoilosalonga) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
